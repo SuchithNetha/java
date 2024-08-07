@@ -2,6 +2,10 @@ package programs;
 
 public class Constructor {
   int rollno;
+  
+  
+  
+  
   String name;
  static  String collegename="Mahindra University";
  static void change() {
